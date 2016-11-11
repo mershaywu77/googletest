@@ -1,0 +1,2 @@
+C:/mingw-w64/x86_64-5.3.0-posix-seh-rt_v4-rev0/mingw64/bin/ar.exe qc libgtest_main.a  CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj
+C:/mingw-w64/x86_64-5.3.0-posix-seh-rt_v4-rev0/mingw64/bin/ranlib.exe libgtest_main.a

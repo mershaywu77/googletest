@@ -1,0 +1,8 @@
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/gtest.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/install/local.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/install/strip.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/edit_cache.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/rebuild_cache.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/install.dir
+C:/SVN_Working_Copies/Github/googletest/googletest/CMakeFiles/list_install_components.dir
